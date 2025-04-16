@@ -1,4 +1,7 @@
 asgiref==3.8.1
+Brotli==1.1.0
+click==8.1.8
+dj-database-url==2.3.0
 Django==5.1.6
 django-cors-headers==4.7.0
 django-filter==25.1
@@ -7,6 +10,7 @@ djangorestframework_simplejwt==5.5.0
 drf-yasg==1.21.9
 ftpretty==0.4.0
 gunicorn==23.0.0
+h11==0.14.0
 inflection==0.5.1
 packaging==24.2
 psycopg2-binary==2.9.10
@@ -17,5 +21,7 @@ pytz==2025.1
 PyYAML==6.0.2
 six==1.17.0
 sqlparse==0.5.3
+typing_extensions==4.13.2
 uritemplate==4.1.1
+uvicorn==0.34.1
 whitenoise==6.9.0
